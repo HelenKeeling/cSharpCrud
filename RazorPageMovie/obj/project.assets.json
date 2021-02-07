@@ -8063,11 +8063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hldar\\source\\repos\\RazorPageMovie\\RazorPageMovie\\RazorPageMovie.csproj",
+      "projectUniqueName": "C:\\Users\\hldar\\GitProjects\\CsRazor\\RazorPageMovie\\RazorPageMovie.csproj",
       "projectName": "RazorPageMovie",
-      "projectPath": "C:\\Users\\hldar\\source\\repos\\RazorPageMovie\\RazorPageMovie\\RazorPageMovie.csproj",
+      "projectPath": "C:\\Users\\hldar\\GitProjects\\CsRazor\\RazorPageMovie\\RazorPageMovie.csproj",
       "packagesPath": "C:\\Users\\hldar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hldar\\source\\repos\\RazorPageMovie\\RazorPageMovie\\obj\\",
+      "outputPath": "C:\\Users\\hldar\\GitProjects\\CsRazor\\RazorPageMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
